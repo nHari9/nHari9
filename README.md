@@ -15,4 +15,7 @@ Over the course of the last few months, I've worked on complex projects using pr
  ![postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)
  
  ### contact
- You can reach me on [LinkedIn](https://www.linkedin.com/in/hari-kishore-reddy-b158b7228/) if you want to collaborate or simply talk about tech!
+ ![LinkedIn](https://img.icons8.com/fluency/35/000000/linkedin.png)[LinkedIn](https://www.linkedin.com/in/hari-kishore-reddy-b158b7228/) 
+ 
+ 
+ ![Gmail](https://img.icons8.com/color/48/000000/gmail-new.png)[Gmail](nharikishorereddy9@gmail.com)
