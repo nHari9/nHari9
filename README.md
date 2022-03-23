@@ -13,6 +13,8 @@ Over the course of the last few months, I've worked on complex projects using pr
  ![node](https://img.icons8.com/color/48/000000/nodejs.png)
  ![redux](https://img.icons8.com/color/48/000000/redux.png)
  ![postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)
+
+ [![Hari's's GitHub stats](https://github-readme-stats.vercel.app/api?username=nHari9)](https://github.com/anuraghazra/github-readme-stats)
  
  ### contact
  ![LinkedIn](https://img.icons8.com/fluency/35/000000/linkedin.png)[LinkedIn](https://www.linkedin.com/in/hari-kishore-reddy-b158b7228/) 
