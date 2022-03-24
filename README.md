@@ -17,7 +17,7 @@ Over the course of the last few months, I've worked on complex projects using pr
  [![Hari's's GitHub stats](https://github-readme-stats.vercel.app/api?username=nHari9)](https://github.com/anuraghazra/github-readme-stats)
  
  ### contact
- ![LinkedIn](https://img.icons8.com/fluency/35/000000/linkedin.png)[LinkedIn](https://www.linkedin.com/in/hari-kishore-reddy-b158b7228/) 
+ [LinkedIn](https://www.linkedin.com/in/hari-kishore-reddy/) 
  
  
- ![Gmail](https://img.icons8.com/color/48/000000/gmail-new.png)[Gmail](nharikishorereddy9@gmail.com)
+ [Gmail](nharikishorereddy9@gmail.com)
