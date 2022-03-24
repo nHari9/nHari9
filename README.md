@@ -19,7 +19,5 @@ Over the course of the last few months, I've worked on complex projects using pr
  ### contact
   <img src="https://img.icons8.com/fluency/40/000000/linkedin.png"/>[LinkedIn](https://www.linkedin.com/in/hari-kishore-reddy/) 
 
- <img src="https://img.icons8.com/color/40/000000/gmail-new.png"/>[Gmail](nharikishorereddy9@gmail.com)
-
 
 
